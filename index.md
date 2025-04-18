@@ -5,3 +5,8 @@
 layout: single
 author_profile: true
 ---
+
+I am a third year *mechanical engineering* student at **University of California San Diego**
+- Project 1
+- Project 2
+- Project 3
