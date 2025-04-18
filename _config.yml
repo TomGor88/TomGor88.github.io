@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Thompson Wong"
+  avatar : "/assets/images/DSC_6509.jpg"
+  bio    : "Third Year Mechanical Engineering Major."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
