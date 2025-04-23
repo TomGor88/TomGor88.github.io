@@ -7,7 +7,7 @@ markdown:  kramdown
 # repository               : "TomGor88/TestWeb.github.io"
 permalink: /:title
 url            : "/https://www.thompsonwong.com/"
-repository               : "TomGor88/TestWeb.github.io"
+repository     : "TomGor88/TestWeb.github.io"
 plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
