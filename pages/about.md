@@ -12,6 +12,6 @@ This is a personal portfolio theme that I built from the ground up, using the [D
 
 {% include image3.html caption="(The FIRST ever built SR-71 BlackBird at Edwards Air Force Base)" image="other/IMG_4508.jpg" %}
 
- Hi! I am a Junior at the University of California, San Diego studying **Mechanical Engineering** with a specilization in Controls and Robotics .
+ Hi! I am a Junior at the **University of California, San Diego** studying **Mechanical Engineering** with a specilization in Controls and Robotics .
 <!-- <br> -->
 <p>I am originally from Palo Alto, CA (San Francisco Bay Area).</p> 
