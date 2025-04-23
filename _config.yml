@@ -5,8 +5,8 @@ markdown:  kramdown
 # url                      : /https://tomgor88.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 # baseurl                  : "www.thompsonwong.com/" # the subpath of your site, e.g. "/blog"
 # repository               : "TomGor88/TestWeb.github.io"
-# permalink: /:title
-permalink                : "https://www.thompsonwong.com/"
+permalink: /:title
+url            : "/https://www.thompsonwong.com/"
 repository               : "TomGor88/TestWeb.github.io"
 plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
