@@ -23,10 +23,15 @@ projects:
 
 social:
 # - {icon: 'twitter',   link: 'https://twitter.com/paululele'}
+# - {icon: 'file-text', link: "{{ site.github.url }}/assets/img/other/Thompson_Wong_Resume.pdf"}
+- {icon: 'file-text', link: 'https://thompsonwong.com/resume'}
 - {icon: 'instagram', link: 'https://instagram.com/t.wong__'}
 - {icon: 'github',    link: 'https://github.com/TomGor88'}
 - {icon: 'linkedin',  link: 'https://linkedin.com/in/twong124244'}
 - {icon: 'envelope',  link: 'mailto:tcw003@ucsd.edu'}
+# - {icon: 'file-text',   link: https://instagram.com/t.wong__'}
+# - {icon: 'file-pdf',   link: https://instagram.com/t.wong__'}
+
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
