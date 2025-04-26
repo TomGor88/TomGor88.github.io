@@ -14,9 +14,11 @@ projects:
 - {name: 'UCSD Fomula FAE TritonRacing',   url: 'proj-1'}
 - {name: 'Chess Robot UR10 Cobot',   url: 'proj-2'}
 - {name: 'Robotic Puppy', url: 'proj-3'}
-- {name: 'A.I. Robotic Arm',  url: 'proj-4'}
-- {name: 'FIRST Gunn Robotics Team',  url: 'proj-5'}
 - {name: 'RC Plane (UAV)',  url: 'proj-6'}
+- {name: 'Fabrication and Testing of Soft Robotics Grippers', url: 'proj-7'}
+- {name: 'FIRST Gunn Robotics Team',  url: 'proj-5'}
+- {name: 'A.I. Robotic Arm',  url: 'proj-4'}
+
 
 #-------------------------------
 # Contact Section

@@ -1,17 +1,27 @@
 <div class="image-container">
-    <object src="{{ site.github.url }}/assets/img/{{ include.image }}" tpye="video/mp4"></object>
+    <object 
+            width="608" 
+            height="456" 
+            src="{{ site.github.url }}/assets/img/{{ include.image }}" 
+            type="video/mp4"
+    ></object>
 </div>
 
-
-<html>
+<!-- html that didn't work  -->
+<!-- <html>
 <body style="text-align: center">
-    <h2>Using the object element</h2>
-    <object width="500" 
-            height="400" 
+    <h2>Video Demo</h2>
+    <object width="608" 
+            height="456" 
             src=
 "{{ site.github.url }}/assets/img/{{ include.image }}" 
             type="video/mp4"
-            
-    </object>
+    ></object>
 </body>
-</html>
+</html> -->
+
+
+<!-- Markdown working code -->
+<!-- <video width="608" height="456" style="text-align: center" controls>
+    <source src="{{ site.github.url }}/assets/img/projects/proj-2/IMG_2541.mp4" type="video/mp4">
+  </video> -->

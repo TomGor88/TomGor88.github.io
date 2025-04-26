@@ -9,7 +9,7 @@ permalink: /about
 This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started. -->
 
 **About Me**    &nbsp;&nbsp;&nbsp;&nbsp;  [**[Resume Here]**]({{}}resume)
-{% include image2.html image="projects/proj-2/DSC_5553.png" %}
+{% include image2.html image="projects/proj-2/DSC_5553.jpg" %}
 
 &nbsp;&nbsp;&nbsp;&nbsp;Hi! I am a third-year Mechanical Engineering student at the University of California, San Diego, specializing in Controls and Robotics.\
 &nbsp;&nbsp;&nbsp;&nbsp;With a strong foundation in STEM and a passion for multidisciplinary innovation, I am actively seeking internship opportunities to apply my technical skills, collaborate on real-world engineering challenges, and contribute to cutting-edge solutions in robotics, medical devices, 3d printing, automation, and related fields.
