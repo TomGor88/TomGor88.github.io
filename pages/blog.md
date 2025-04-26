@@ -8,7 +8,7 @@ permalink: /resume
 
 
 
-<a href="{{ site.github.url}}/assets/img/other/Thompson_Wong_Resume.pdf" download>Download Resume Here</a>
+<a href="{{ site.github.url}}/assets/img/other/Thompson_Wong_Resume.pdf" download>[Download Resume Here]</a>
 
 <!-- <a href="{{ site.github.url }}/assets/img/other/Thompson_Wong_Resume.pdf" download>Download Resume</a> -->
 
