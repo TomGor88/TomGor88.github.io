@@ -6,7 +6,7 @@ permalink: /contact
 
 # Contact Me!
 
-You may contact me [through my email](mailto:tcw003@ucsd.edu) or [connect on Linkedin](https://linkedin.com/in/twong12424) if you have any questions or would like to reach out for any internship opportunity.
+You may contact me [through my email](mailto:tcw003@ucsd.edu) or [connect on Linkedin](https://linkedin.com/in/twong124244) if you have any questions or would like to reach out for any internship opportunity.
 
 {% include image3.html caption="(The FIRST ever built SR-71 BlackBird at Edwards Air Force Base)" image="other/IMG_4508.jpg" %}
 
