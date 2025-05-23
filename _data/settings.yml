@@ -11,7 +11,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'UCSD Fromula SAE TritonRacing',   url: 'proj-1'}
+- {name: 'UCSD Formula SAE TritonRacing',   url: 'proj-1'}
 - {name: 'Chess Robot UR10 Cobot',   url: 'proj-2'}
 - {name: 'Robotic Puppy', url: 'proj-3'}
 - {name: 'RC Plane + Lift Testing Kit',  url: 'proj-6'}
