@@ -22,8 +22,8 @@ projects:
 #-------------------------------
 # Research Section
 research:
-- {name: 'Morimoto Lab',   url: 'proj-a'}
-- {name: 'Delsons Lab', url: 'proj-b'}
+- {name: 'Surgical Robot',   url: 'proj-a'}
+- {name: 'Medical Device', url: 'proj-b'}
 - {name: 'Fabrication and Testing of Soft Robotics Grippers', url: 'proj-7'}
 
 
